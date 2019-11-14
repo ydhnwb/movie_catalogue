@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_favorite">Favorite</string>
+    <string name="action_search">Hasil pencarian</string>
+    <string name="action_settings">Pengaturan</string>
+    <string name="btn_text_add_favorite">Tambahkan ke favorit</string>
+    <string name="btn_text_remove_favorite">Hapus dari favorit</string>
+    <string name="empty_view_nothing">Belum ada apapun</string>
+    <string name="hint_search">Cari film</string>
+    <string name="movie_in_your_hand">Film dalam genggamanmu</string>
+    <string name="popular">Film populer</string>
+    <string name="setting_category_localization">Lokalisasi</string>
+    <string name="setting_category_notification">Notifikasi</string>
+    <string name="settings_language">Bahasa</string>
+    <string name="settings_language_summary">Ubah bahasa aplikasi</string>
+    <string name="settings_reminder_daily">Nyalakan pengingat</string>
+    <string name="settings_reminder_daily_summary">Ingatkan saya tentang aplikasi ini</string>
+    <string name="settings_reminder_release_movie">Pemberitahuan film baru</string>
+    <string name="settings_reminder_release_movie_summary">Nyalakan pemberitahuan jika ada film baru</string>
+    <string name="title_activity_search">Hasil pencarian</string>
+    <string name="title_activity_setting">Pengaturan</string>
+    <string name="title_dashboard">Beranda</string>
+    <string name="title_favorite">Favorit</string>
+    <string name="title_home">Utama</string>
+    <string name="title_movie">Film</string>
+    <string name="title_notifications">Notifikasi</string>
+    <string name="title_search">"Hasil pencarian "</string>
+    <string name="title_tvshow">Acara TV</string>
+    <string name="toast_add_favorite">Ditambahkan ke favorit</string>
+    <string name="toast_remove_favorite">Dihapus dari favorit</string>
+    <string name="top_rated">Film dengan rating tinggi</string>
+    <string name="upcoming">Film yang akan datang</string>
+    <string name="notification_message_daily">Lihat film yang  mungkin anda suka</string>
+    <string name="tab_now_playing">Sedang tayang</string>
+    <string name="tab_upcoming">Akan datang</string>
+</resources>

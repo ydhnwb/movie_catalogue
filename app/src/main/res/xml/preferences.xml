@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.preference.PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory
+        android:title="@string/setting_category_notification">
+        <CheckBoxPreference
+            android:title="@string/settings_reminder_daily"
+            android:defaultValue="false"
+            android:summary="@string/settings_reminder_daily_summary"
+            android:key="pref_daily_reminder"/>
+        <SwitchPreference
+            android:defaultValue="false"
+            android:summary="@string/settings_reminder_release_movie_summary"
+            android:title="@string/settings_reminder_release_movie"
+            android:key="pref_release_reminder"/>
+    </PreferenceCategory>
+
+
+    <PreferenceCategory
+        android:title="@string/setting_category_localization">
+
+        <Preference
+            android:key="pref_language"
+            android:defaultValue="@string/settings_language_default_value"
+            android:summary="@string/settings_language_summary"
+            android:title="@string/settings_language"/>
+    </PreferenceCategory>
+
+
+</androidx.preference.PreferenceScreen>
